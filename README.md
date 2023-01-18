@@ -6,6 +6,19 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 
 > _**IMPORTANT:**_ It is never recommended to print from someone elses gcode files. Please use the STL files in your slicer of choice and generate the gcode on your own. Please let me know if you have any questions and thank you! Enjoy these prints!
 
+## Print Volumes
+
+| |  X , Y , Z | X, Y, Z
+| ----------- | ----------- | ----------- |
+| STL | 180mm X 180mm X 180mm | 250mm X 210mm X 210mm |
+| blade1.stl | Not yet tested | Not yet tested |
+| blade2.stl | Not yet tested | Not yet tested |
+| blade3.stl | Not yet tested | Not yet tested |
+| blade4.stl | Not yet tested | Not yet tested |
+| blade5.stl | Not yet tested | Not yet tested |
+| guard1.stl | No | Yes |
+| hilt1.stl | Yes | Yes 
+
 ## Images
 
 ![master_sword1.jpg](images/master_sword1.jpg)
@@ -13,6 +26,8 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 ![master_sword2.jpg](images/master_sword2.jpg)
 
 ![master_sword3.jpg](images/master_sword3.jpg)
+
+> NOTE: Version 2 does not have the ribbon design on the hilt. This was removed so that once finished leather strapping could be used instead.
 
 ![master_sword4.jpg](images/master_sword4.jpg)
 
