@@ -11,13 +11,16 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | |  X , Y , Z | X, Y, Z
 | ----------- | ----------- | ----------- |
 | STL | 180mm X 180mm X 180mm | 250mm X 210mm X 210mm |
-| blade1.stl | Not yet tested | Not yet tested |
-| blade2.stl | Not yet tested | Not yet tested |
-| blade3.stl | Not yet tested | Not yet tested |
-| blade4.stl | Not yet tested | Not yet tested |
-| blade5.stl | Not yet tested | Not yet tested |
+| blade1l1.stl | Not yet tested | Not yet tested |
+| blade1r1.stl | Not yet tested | Not yet tested |
+| blade2l1.stl | Not yet tested | Not yet tested |
+| blade2r1.stl | Not yet tested | Not yet tested |
+| blade3l1.stl | Not yet tested | Not yet tested |
+| blade3r1.stl | Not yet tested | Not yet tested |
+| blade4l1.stl | Not yet tested | Not yet tested |
+| blade4r1.stl | Not yet tested | Not yet tested |
 | guard1.stl | No | Yes |
-| hilt1.stl | Yes | Yes 
+| hilt1.stl | Yes | Yes |
 
 ## Images
 
