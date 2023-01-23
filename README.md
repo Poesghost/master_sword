@@ -22,6 +22,10 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | guard1.stl | No | Yes |
 | hilt1.stl | Yes | Yes |
 | sheath1.stl | Not yet tested | Not yet tested |
+| sheath2.stl | Not yet tested | Not yet tested |
+| sheath3.stl | Not yet tested | Not yet tested |
+| sheath4.stl | Not yet tested | Not yet tested |
+| sheath_full1.stl | Not yet tested | Not yet tested |
 
 > NOTE: With the `sheath1.stl` I will probably chop it up in my slicer and use JB Weld to glue them together.
 
