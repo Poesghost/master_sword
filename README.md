@@ -27,7 +27,7 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | sheath4.stl | Not yet tested | Not yet tested |
 | sheath_full1.stl | Not yet tested | Not yet tested |
 
-> NOTE: With the `sheath1.stl` I will probably chop it up in my slicer and use JB Weld to glue them together.
+> NOTE: With the `sheath_full1.stl` I will probably chop it up in my slicer and use JB Weld to glue them together.
 
 ## Images
 
