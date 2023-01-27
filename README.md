@@ -11,20 +11,20 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | |  X , Y , Z | X, Y, Z
 | ----------- | ----------- | ----------- |
 | STL | 180mm X 180mm X 180mm | 250mm X 210mm X 210mm |
-| blade1l1.stl | Not yet tested | Not yet tested |
-| blade1r1.stl | Not yet tested | Not yet tested |
-| blade2l1.stl | Not yet tested | Not yet tested |
-| blade2r1.stl | Not yet tested | Not yet tested |
-| blade3l1.stl | Not yet tested | Not yet tested |
-| blade3r1.stl | Not yet tested | Not yet tested |
-| blade4l1.stl | Not yet tested | Not yet tested |
-| blade4r1.stl | Not yet tested | Not yet tested |
+| blade1l1.stl | No | Yes |
+| blade1r1.stl | No | Yes |
+| blade2l1.stl | No | Yes |
+| blade2r1.stl | No | Yes |
+| blade3l1.stl | Yes | Yes |
+| blade3r1.stl | Yes | Yes |
+| blade4l1.stl | Yes | Yes |
+| blade4r1.stl | Yes | Yes |
 | guard1.stl | No | Yes |
 | hilt1.stl | Yes | Yes |
 | sheath1.stl | Not yet tested | Not yet tested |
-| sheath2.stl | Not yet tested | Not yet tested |
-| sheath3.stl | Not yet tested | Not yet tested |
-| sheath4.stl | Not yet tested | Not yet tested |
+| sheath2.stl | No | Yes |
+| sheath3.stl | No | Yes |
+| sheath4.stl | Yes | Yes |
 | sheath_full1.stl | Not yet tested | Not yet tested |
 
 > NOTE: With the `sheath_full1.stl` I will probably chop it up in my slicer and use JB Weld to glue them together.
