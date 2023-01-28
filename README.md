@@ -2,13 +2,13 @@
 
 ## About
 
-The model was built using [Blender](https://www.blender.org/), exported as a `.stl` file, imported into [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/), sliced and the result is saved as a `.gcode` file. This print was designed around it being printed on a Prusa Mini+.
+The model was built using [Blender](https://www.blender.org/), exported as a `.stl` file, imported into [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/), sliced and the result is saved as a `.gcode` file. This print _(version2)_ was designed around it being printed on a Prusa Mini+ and Prusa i3 MK3S+.
 
 > _**IMPORTANT:**_ It is never recommended to print from someone elses gcode files. Please use the STL files in your slicer of choice and generate the gcode on your own. Please let me know if you have any questions and thank you! Enjoy these prints!
 
 ## Print Volumes
 
-| |  X , Y , Z | X, Y, Z
+| Version 2 |  X, Y, Z (Prusa Mini+) | X, Y, Z (Prusa i3 MK3S+) |
 | ----------- | ----------- | ----------- |
 | STL | 180mm X 180mm X 180mm | 250mm X 210mm X 210mm |
 | blade1l1.stl | No | Yes |
@@ -21,13 +21,13 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 | blade4r1.stl | Yes | Yes |
 | guard1.stl | No | Yes |
 | hilt1.stl | Yes | Yes |
-| sheath1.stl | Not yet tested | Not yet tested |
+| sheath1.stl | No | Yes |
 | sheath2.stl | No | Yes |
 | sheath3.stl | No | Yes |
 | sheath4.stl | Yes | Yes |
 | sheath_full1.stl | Not yet tested | Not yet tested |
 
-> NOTE: With the `sheath_full1.stl` I will probably chop it up in my slicer and use JB Weld to glue them together.
+> The `sheath_full1.stl` can be chopped up in your slicer of choice. The only thing that will be missing will be the holes for the wooden dowels.
 
 ## Images
 
@@ -42,6 +42,8 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 ![master_sword4.jpg](images/master_sword4.jpg)
 
 ![master_sword5.jpg](images/master_sword5.jpg)
+
+> None of the above parts have been glued together. Just lightly sanded and wooden 3/16 dowel used.
 
 ## License
 
